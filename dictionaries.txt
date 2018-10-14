@@ -1,0 +1,113 @@
+a-plenty	nhieu, doi dao
+accountant	ke toan
+activate	kich hoat
+actress	nu dien vien
+architect	kien truc su
+artist	hoa si
+assembler	cong nhan lap rap
+astronomer	nha thien van hoc
+attract	hap dan, loi cuon
+author	nha van
+babe	tre so sinh
+babysister	nguoi giu tre ho
+back	tro lai, tro ve
+baker	tho lam banh mi  
+barber	tho cat toc
+barmaid	nu nhan vien ban ruou 
+barman	nam nhan vien ban ruou
+bartender	nguoi pha ruou
+bathroom	phong tam
+book	quyen sach
+bricklayer	tho ho
+builder	tho xay    
+butcher	nguoi ban thit    
+buyer	nhan vien vat tu   
+carer	nguoi lam nghe cham soc nguoi om   
+carpenter	tho moc   
+cashier	nhan vien ngan thu
+chain	day xich, day chuyen (lam viec...)
+chemist	nha nghien cuu hoa hoc
+chicken	ga con, thit ga
+cleaner	nhan vien lau don    
+cook	dau bep
+counsellor	uy vien hoi dong  
+custodian	nguoi lau don
+dancer	dien vien mua
+data	so lieu, du kien
+decorator	nguoi lam nghe trang tri
+dentist	nha si
+designer	nha thiet ke
+director	giam doc   
+doctor	bac si  
+dog 	con cho
+dustman	nguoi thu rac
+electrician	tho dien  
+engineer	ky su
+export	xuat khau
+farmer	nong dan 
+fireman	linh cuu hoa
+fisherman	ngu dan
+florist	nguoi trong hoa   
+flower	bong hoa
+food	mon an
+foreman	quan doc, doc cong
+gardener	nguoi lam vuon
+girl	con gai
+grape	qua nho
+group	nhom; (hoa hoc) nhom, goc
+homemaker	nguoi giup viec nha
+hot dog	xuc xich
+housekeeper	nhan vien don phong khach san
+housewife	noi tro
+insect	con trung
+janitor	quan gia
+journalist	nha bao
+judge	tham phan
+landlord	chu nha 
+lawyer	luat su
+lecturer	giang vien dai hoc
+librarian	thu thu
+lifeguard	nhan vien cuu ho
+loss	su mat di (cai gi), su mat mat
+maid	nguoi giup viec
+manager	quan ly
+manicurist	tho lam mong tay
+market	thi truong, cho
+miner	tho mo
+miss	den qua muon cho cai gi, bo lo
+model	nguoi mau
+monkey	con khi
+mother	me
+mover	nhan vien don nha
+musician	nhac si
+nurse	y ta
+painter	hoa si
+pencil	but bi
+photographer	tho chup anh
+pillot	phi cong
+playwright	nha soan kich   
+plumber	tho sua ong nuoc
+postman	nguoi dua thu
+programmer	lap trinh vien may tinh
+psychiatrist	nha tam ly hoc   
+receptionist	nhan vien tiep tan
+repairperson	tho sua chua
+saleperson	nhan vien ban hang
+sales assistant	tro ly ban hang   
+school	truong hoc
+scientist	nha khoa hoc
+secretary	thu ky
+sex	gioi tinh
+shopkeeper	chu cua hang   
+should	nen
+singer	ca si   
+skill	ky nang
+soldier	quan nhan
+student	hoc sinh
+supervisor	nguoi giam sat
+surgeon	bac si phau thuat 
+tailor	tho may
+technician	ky thuat vien
+translator	thong dich vien
+unemployed	that nghiep
+winter	mua dong
